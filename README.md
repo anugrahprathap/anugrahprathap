@@ -7,9 +7,7 @@
   <a href="mailto:anugrahprathap@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/84971294?s=400&u=385872cf6792095d5fa0e563fa43cb079ea3c13e&v=4" alt="Anugrah P" width="200" style="border-radius: 50%">
-</p>
+
 
 ## 🛠️ Tech Stack
 
@@ -55,4 +53,20 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/-Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell">
   <img src="https://img.shields.io/badge/-Google Cloud Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/-Scikit-learn-F7931E?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Scikit-learn">
+
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+</p>
+
+## 🌱 Learning
+
+I'm a quick learner, always eager to explore new technologies and tools. I thrive in fast-paced environments and I'm dedicated to continuous improvement.
+
+## 📫 Let's Connect
+
+Feel free to explore my projects, connect with me, or drop me an email. I'm open to collaboration and always excited about the next tech adventure.
+
+🚀 Happy coding!
