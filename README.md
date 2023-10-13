@@ -1,9 +1,9 @@
-<h1 align="center">🚀 [Anugrah P] - Software Developer</h1>
+<h1 align="center">🚀 Anugrah P - Software Developer</h1>
 
 <p align="center">Recent MCA graduate with a passion for coding and creating awesome software solutions. Let's turn coffee into code!</p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/anugrahprathap/]">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/anugrahprathap/">LinkedIn</a> •
   <a href="mailto:[anugrahprathap@gmail.com]">Email</a>
 </p>
 
