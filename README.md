@@ -2,10 +2,11 @@
 
 <p align="center">Recent MCA graduate with a passion for coding and creating awesome software solutions. Let's turn coffee into code!</p>
 
-
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/84971294?s=400&u=385872cf6792095d5fa0e563fa43cb079ea3c13e&v=4" alt="Anugrah P" width="200" style="border-radius: 50%">
+  <a href="https://www.linkedin.com/in/anugrahprathap/">LinkedIn</a> •
+  <a href="mailto:anugrahprathap@gmail.com">Email</a>
 </p>
+
 
 ## 🛠️ Tech Stack
 
