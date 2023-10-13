@@ -36,6 +36,22 @@
 - [GitHub Repo](https://github.com/anugrahprathap/DjangoReactEcommerce)
 - 🛒 Currently, I'm working on a full-stack e-commerce app using Python Django Rest Framework and React.js.
 
+## 💻 Skill Sets
+
+- Python ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
+- Java ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java)
+- C++ ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B)
+- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+- Flask ![Flask](https://img.shields.io/badge/-Flask-lightgrey?style=flat&logo=flask)
+- Django ![Django](https://img.shields.io/badge/-Django-green?style=flat&logo=django)
+- Node.js ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
+- React ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
+- TensorFlow ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat&logo=tensorflow)
+- MySQL ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql)
+- Oracle ![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat&logo=oracle)
+- Git ![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git)
+- Shell Scripting ![Shell](https://img.shields.io/badge/-Shell-1f425f?style=flat)
+
 ## 🌱 Learning
 
 I'm a quick learner, always eager to explore new technologies and tools. I thrive in fast-paced environments and I'm dedicated to continuous improvement.
