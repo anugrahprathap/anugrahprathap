@@ -42,9 +42,8 @@
 <img src="https://skillicons.dev/icons?i=,&perline=8" >
 
 </p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=,&perline=9" >
-</p>
+
+
 ## 🌱 Learning
 
 I'm a quick learner, always eager to explore new technologies and tools. I thrive in fast-paced environments and I'm dedicated to continuous improvement.
