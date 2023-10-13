@@ -26,19 +26,18 @@
 ## 💼 Projects
 
 ### Audio Surveillance System using CRNN
-- [GitHub Repository]( https://github.com/anugrahprathap/Audio-Survilance)
+- [Link]( https://github.com/anugrahprathap/Audio-Survilance)
 - 🎵 An innovative surveillance system that detects abnormal sound events using deep learning and TensorFlow.
 
 ### Campus Recruitment System
-- [GitHub Repository]( https://github.com/anugrahprathap/campus-recruitment-app)
+- [Link]( https://github.com/anugrahprathap/campus-recruitment-app)
 - 🎓 A web application built using Python Django, designed to streamline campus recruitment processes.
 
 ### Online Job Portal for Recent Graduates
-- [GitHub Repository]()
 - 🎉 Created a user-friendly online job portal using Python Flask, MySQL, JavaScript, HTML, and CSS.
 
 ### Full-Stack E-commerce App
-- [GitHub Repository](https://github.com/anugrahprathap/DjangoReactEcomerce)
+- [Link](https://github.com/anugrahprathap/DjangoReactEcomerce)
 - 🛒 Currently, I'm working on a full-stack e-commerce app using Python Django Rest Framework and React.js. 
 
 ## 🌱 Learning
