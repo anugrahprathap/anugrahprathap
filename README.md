@@ -42,7 +42,43 @@
 ## My Skills
 <p align="center">
   <a href="https://skillicons.dev/icons?i=python,java,js,c,cpp,nodejs,django,flask,react,tensorflow,linux,bash,postman,gcp,jenkins,kubernetes,docker,mysql,sqlite,git,github,css,bootstrap,materialui,html,powershell&perline=13">
-    <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,nodejs,django,flask,react,tensorflow,linux,bash,postman,gcp,jenkins,kubernetes,docker,mysql,sqlite,git,github,css,bootstrap,materialui,html,powershell&perline=13" alt="My Skills" />
+    <div align="center" style="display: grid; grid-template-columns: repeat(10, 1fr); gap: 10px; margin-top: 20px;">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=django" alt="Django" />
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
+</div>
+
+<!-- Icon Grid Container - Line 2 -->
+<div align="center" style="display: grid; grid-template-columns: repeat(8, 1fr); gap: 10px; margin-top: 20px;">
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform" />
+  <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+</div>
+<div align="center" style="display: grid; grid-template-columns: repeat(8, 1fr); gap: 10px; margin-top: 20px;">
+  <img src="https://skillicons.dev/icons?i=express">
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" />
+  <img src="https://skillicons.dev/icons?i=git" alt="git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="github" />
+  <img src="https://skillicons.dev/icons?i=css" alt="css" />
+  <img src="https://skillicons.dev/icons?i=bootstrap">
+  <img src="https://skillicons.dev/icons?i=materialui" alt="materialui" />
+  <img src="https://skillicons.dev/icons?i=html" alt="html" />
+  <img src="https://skillicons.dev/icons?i=powershell" alt="powershell" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" />
+</div>
+
   </a>
 </p>
 
