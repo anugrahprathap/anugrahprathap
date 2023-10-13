@@ -37,26 +37,7 @@
 - 🛒 Currently, I'm working on a full-stack e-commerce app using Python Django Rest Framework and React.js.
 
 ## 🚀 Skills
-
-<p align="center">
-  <i class="fab fa-python" style="font-size: 2em;"></i>
-  <i class="fab fa-java" style="font-size: 2em;"></i>
-  <i class="fab fa-cuttlefish" style="font-size: 2em;"></i>
-  <i class="fab fa-js" style="font-size: 2em;"></i>
-  <i class="fab fa-python" style="font-size: 2em;"></i>
-  <i class="fab fa-python" style="font-size: 2em;"></i>
-  <i class="fab fa-node" style="font-size: 2em;"></i>
-  <i class="fab fa-react" style="font-size: 2em;"></i>
-  <i class="fab fa-tensorflow" style="font-size: 2em;"></i>
-  <i class="fab fa-mysql" style="font-size: 2em;"></i>
-  <i class="fab fa-oracle" style="font-size: 2em;"></i>
-  <i class="fab fa-git" style="font-size: 2em;"></i>
-  <i class="fab fa-linux" style="font-size: 2em;"></i>
-  <i class="fab fa-google" style="font-size: 2em;"></i>
-  <i class="fab fa-kubernetes" style="font-size: 2em;"></i>
-  <i class="fab fa-bootstrap" style="font-size: 2em;"></i>
-  <i class="fab fa-css3" style="font-size: 2em;"></i>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 ## 🌱 Learning
 
