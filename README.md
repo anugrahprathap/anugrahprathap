@@ -2,10 +2,7 @@
 
 <p align="center">Recent MCA graduate with a passion for coding and creating awesome software solutions. Let's turn coffee into code!</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anugrahprathap/">LinkedIn</a> •
-  <a href="mailto:anugrahprathap@gmail.com">Email</a>
-</p>
+
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/84971294?s=400&u=385872cf6792095d5fa0e563fa43cb079ea3c13e&v=4" alt="Anugrah P" width="200" style="border-radius: 50%">
@@ -46,7 +43,7 @@
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt "Django">
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
