@@ -38,9 +38,12 @@
 
 ## 🚀 Skills
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,nodejs,django,flask,react,tensorflow,bash,&perline=11">
-<img src="https://skillicons.dev/icons?i=css,html,mysql,sqlite,git,github,gcp,jenkins,&perline=8" >
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,&perline=9" >
+<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,nodejs,django,flask,react,tensorflow,linux,bash,postman,gcp,jenkins,kubernetes,docker,mysql,sqlite,git,github,css,bootstrap,materialui,html,powershell,&perline=13">
+<img src="https://skillicons.dev/icons?i=,&perline=8" >
+
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=,&perline=9" >
 </p>
 ## 🌱 Learning
 
