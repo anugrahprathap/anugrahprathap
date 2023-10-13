@@ -1,19 +1,13 @@
-<h1 align="center">🚀 Anugrah P - Software Developer</h1>
+<div align="center">
+  <h1 style="font-size: 36px; color: #3498db;">🚀 Anugrah P - Software Developer</h1>
+  <p style="font-size: 18px; color: #555;">Recent MCA graduate with a passion for coding and creating awesome software solutions. Let's turn coffee into code!</p>
+  <p style="font-size: 20px; color: #555;">
+    <a href="https://www.linkedin.com/in/anugrahprathap/" style="text-decoration: none; color: #3498db; margin-right: 20px;">LinkedIn</a> •
+    <a href="mailto:[anugrahprathap@gmail.com]" style="text-decoration: none; color: #3498db;">Email</a>
+  </p>
 
-<p align="center">Recent MCA graduate with a passion for coding and creating awesome software solutions. Let's turn coffee into code!</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anugrahprathap/">LinkedIn</a> •
-  <a href="mailto:[anugrahprathap@gmail.com]">Email</a>
-</p>
-
-<br>
-
-<p align="center" style="border-radius=8">
-  <img src="https://avatars.githubusercontent.com/u/84971294?s=400&u=385872cf6792095d5fa0e563fa43cb079ea3c13e&v=4" alt="Anugrah P" width="200">
-</p>
-
-<br>
+  <img src="https://avatars.githubusercontent.com/u/84971294?s=400&u=385872cf6792095d5fa0e563fa43cb079ea3c13e&v=4" alt="Anugrah P" width="200" style="border: 5px solid #3498db; border-radius: 50%; margin-top: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -26,7 +20,7 @@
 ## 💼 Projects
 
 ### Audio Surveillance System using CRNN
-- [Link]( https://github.com/anugrahprathap/Audio-Survilance)
+- [Link]( https://github.com/anugrahprathap/Audio-Surveillance)
 - 🎵 An innovative surveillance system that detects abnormal sound events using deep learning and TensorFlow.
 
 ### Campus Recruitment System
@@ -37,7 +31,7 @@
 - 🎉 Created a user-friendly online job portal using Python Flask, MySQL, JavaScript, HTML, and CSS.
 
 ### Full-Stack E-commerce App
-- [Link](https://github.com/anugrahprathap/DjangoReactEcomerce)
+- [Link](https://github.com/anugrahprathap/DjangoReactEcommerce)
 - 🛒 Currently, I'm working on a full-stack e-commerce app using Python Django Rest Framework and React.js. 
 
 ## 🌱 Learning
@@ -48,4 +42,6 @@ I'm a quick learner, always eager to explore new technologies and tools. I thriv
 
 Feel free to explore my projects, connect with me, or drop me an email. I'm open to collaboration and always excited about the next tech adventure.
 
-🚀 Happy coding!
+<div align="center">
+  🚀 Happy coding!
+</div>
