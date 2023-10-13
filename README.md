@@ -37,7 +37,7 @@
 - 🛒 Currently, I'm working on a full-stack e-commerce app using Python Django Rest Framework and React.js.
 
 ## 🚀 Skills
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,gcp,react,materialui,netlify,nodejs,&perline=6)](https://skillicons.dev)
 
 ## 🌱 Learning
 
