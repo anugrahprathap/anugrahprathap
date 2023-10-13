@@ -1,5 +1,8 @@
-<h1 align="center">🚀 Anugrah P - Software Developer</h1>
 
+
+<h1 align="center">
+  <span style="font-size: 2.5em; font-weight: bold; color: #2E86AB; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);"> Anugrah P</span>
+</h1>
 <p align="center">Recent MCA graduate with a passion for coding and creating awesome software solutions. Let's turn coffee into code!</p>
 
 <p align="center">
@@ -36,12 +39,13 @@
 - [GitHub Repo](https://github.com/anugrahprathap/DjangoReactEcommerce)
 - 🛒 Currently, I'm working on a full-stack e-commerce app using Python Django Rest Framework and React.js.
 
-## 🚀 Skills
+## My Skills
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,nodejs,django,flask,react,tensorflow,linux,bash,postman,gcp,jenkins,kubernetes,docker,mysql,sqlite,git,github,css,bootstrap,materialui,html,powershell,&perline=13">
-<img src="https://skillicons.dev/icons?i=,&perline=8" >
-
+  <a href="https://skillicons.dev/icons?i=python,java,js,c,cpp,nodejs,django,flask,react,tensorflow,linux,bash,postman,gcp,jenkins,kubernetes,docker,mysql,sqlite,git,github,css,bootstrap,materialui,html,powershell&perline=13">
+    <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,nodejs,django,flask,react,tensorflow,linux,bash,postman,gcp,jenkins,kubernetes,docker,mysql,sqlite,git,github,css,bootstrap,materialui,html,powershell&perline=13" alt="My Skills" />
+  </a>
 </p>
+
 
 
 ## 🌱 Learning
