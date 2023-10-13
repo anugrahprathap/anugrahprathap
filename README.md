@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/84971294?s=400&u=385872cf6792095d5fa0e563fa43cb079ea3c13e&v=4]" alt="[Anugrah P]" width="200">
+  <img src="https://avatars.githubusercontent.com/u/84971294?s=400&u=385872cf6792095d5fa0e563fa43cb079ea3c13e&v=4" alt="Anugrah P" width="200">
 </p>
 
 <br>
