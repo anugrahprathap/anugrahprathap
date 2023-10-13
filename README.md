@@ -39,26 +39,24 @@
 ## 🚀 Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell">
-  <img src="https://img.shields.io/badge/-Google Cloud Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/-Scikit-learn-F7931E?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Scikit-learn">
-
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <a href="#"><img src="https://img.icons8.com/plasticine/2x/python.png" width="50" alt="Python"></a>
+  <a href="#"><img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" width="50" alt="Java"></a>
+  <a href="#"><img src="https://img.icons8.com/plasticine/2x/c-plus-plus.png" width="50" alt="C++"></a>
+  <a href="#"><img src="https://img.icons8.com/color/2x/javascript.png" width="50" alt="JavaScript"></a>
+  <a href="#"><img src="https://img.icons8.com/color/2x/flask.png" width="50" alt="Flask"></a>
+  <a href="#"><img src="https://img.icons8.com/color/2x/django.png" width="50" alt="Django"></a>
+  <a href="#"><img src="https://img.icons8.com/color/2x/nodejs.png" width="50" alt="Node.js"></a>
+  <a href="#"><img src="https://img.icons8.com/color/2x/react.png" width="50" alt="React"></a>
+  <a href="#"><img src="https://img.icons8.com/plasticine/2x/tensorflow.png" width="50" alt="TensorFlow"></a>
+  <a href="#"><img src="https://img.icons8.com/color/2x/mysql.png" width="50" alt="MySQL"></a>
+  <a href="#"><img src="https://img.icons8.com/color/2x/oracle-logo.png" width="50" alt="Oracle"></a>
+  <a href="#"><img src="https://img.icons8.com/color/2x/git.png" width="50" alt="Git"></a>
+  <a href="#"><img src="https://img.icons8.com/color/2x/linux.png" width="50" alt="Linux"></a>
+  <a href="#"><img src="https://img.icons8.com/color/2x/google-cloud.png" width="50" alt="Google Cloud Platform"></a>
+  <a href="#"><img src="https://img.icons8.com/color/2x/kubernetes.png" width="50" alt="Kubernetes"></a>
+  <a href="#"><img src="https://img.icons8.com/color/2x/bootstrap.png" width="50" alt="Bootstrap"></a>
+  <a href="#"><img src="https://img.icons8.com/color/2x/scikit-learn.png" width="50" alt="Scikit-learn"></a>
+  <a href="#"><img src="https://img.icons8.com/color/2x/css3.png" width="50" alt="CSS"></a>
 </p>
 
 ## 🌱 Learning
@@ -67,6 +65,4 @@ I'm a quick learner, always eager to explore new technologies and tools. I thriv
 
 ## 📫 Let's Connect
 
-Feel free to explore my projects, connect with me, or drop me an email. I'm open to collaboration and always excited about the next tech adventure.
-
-🚀 Happy coding!
+Feel free to explore my projects, connect with me, or drop me an email. I'm open
