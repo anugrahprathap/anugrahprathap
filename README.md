@@ -37,8 +37,11 @@
 - 🛒 Currently, I'm working on a full-stack e-commerce app using Python Django Rest Framework and React.js.
 
 ## 🚀 Skills
-[![My Skills](https://skillicons.dev/icons?i=python,gcp,react,materialui,netlify,nodejs,&perline=6)](https://skillicons.dev)
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,nodejs,django,flask,react,tensorflow,bash,&perline=11">
+<img src="https://skillicons.dev/icons?i=css,html,mysql,sqlite,git,github,gcp,jenkins,&perline=8" >
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,&perline=9" >
+</p>
 ## 🌱 Learning
 
 I'm a quick learner, always eager to explore new technologies and tools. I thrive in fast-paced environments and I'm dedicated to continuous improvement.
