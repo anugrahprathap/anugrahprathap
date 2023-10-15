@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Algerian&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Full-Stack+Developer,;Recent+MCA+Graduate,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Algerian&color=00A038&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Full-Stack+Developer,;AI+Enthusiast,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
 </p>
 <p align="center">Recent MCA graduate with a passion for coding and creating awesome software solutions. Let's turn coffee into code!</p>
 
@@ -15,16 +15,6 @@
 </p>
 
 
-
-## 🛠️ Tech Stack
-
-- **Languages:** Python, Java, C++, JavaScript
-- **Web Development:** Flask, Django, Node.js, React, Bootstrap, CSS
-- **Machine Learning:** TensorFlow, Scikit-learn
-- **Databases:** MySQL, Oracle
-- **Tools:** Git, Shell Scripting, Linux
-- **Cloud:** Google Cloud Platform
-- **Containers:** Kubernetes
 
 ## 💼 Projects
 
@@ -43,7 +33,7 @@
 - [GitHub Repo](https://github.com/anugrahprathap/DjangoReactEcommerce)
 - 🛒 Currently, I'm working on a full-stack e-commerce app using Python Django Rest Framework and React.js.
 
-## My Skills
+## 🛠️ Tech Stack
 <p align="center">
   <a href="https://skillicons.dev/icons?i=python,java,js,c,cpp,nodejs,django,flask,react,tensorflow,linux,bash,postman,gcp,jenkins,kubernetes,docker,mysql,sqlite,git,github,css,bootstrap,materialui,html,powershell&perline=13">
     <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,nodejs,django,flask,react,tensorflow,linux,bash,postman,gcp,jenkins,kubernetes,docker,mysql,sqlite,git,github,css,bootstrap,materialui,html,powershell&perline=13") alt="Python" />
@@ -66,7 +56,7 @@ Feel free to explore my projects, connect with me, or drop me an email. I'm open
 
 <p align="center">
 <a href="https://www.linkedin.com/in/anugrahprathap/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="60" /></a><a href="https://twitter.com/anugrahprathap" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="vscode"  alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/anugrahprathap/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="50" width="50" /></a>
+<a href="https://www.instagram.com/_anugrahprathap/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="50" width="50" /></a>
 <a href="https://discord.gg/anugrahprathap" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discord" height="50" width="50"  /></a>
   
 </p>
