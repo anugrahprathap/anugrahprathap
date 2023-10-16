@@ -6,11 +6,12 @@
 </div>
 
 <h1 align="center">
-  <span style="font-size: 2.5em; font-weight: bold; color: #2E86AB; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);"> Anugrah P</span>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=4D4C7D&size=45&center=true&vCenter=true&width=600&height=100&lines=ANUGRAH+P;">
+  
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Algerian&color=00A038&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Full-Stack+Developer,;AI+Enthusiast,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..">
 </p>
 <p align="center">Recent MCA graduate with a passion for coding and creating awesome software solutions. Let's turn coffee into code!</p>
 
