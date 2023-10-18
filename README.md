@@ -25,7 +25,7 @@
 ## 💼 Projects
 
 ### Audio Surveillance System using CRNN
-- [GitHub Repo](https://github.com/anugrahprathap/Audio-Surveillance)
+- [GitHub Repo](https://github.com/anugrahprathap/Audio-Survilance)
 - 🎵 An innovative surveillance system that detects abnormal sound events using deep learning and TensorFlow.
 
 ### Campus Recruitment System
