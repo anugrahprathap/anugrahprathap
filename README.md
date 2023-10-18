@@ -36,7 +36,7 @@
 - 🎉 Created a user-friendly online job portal using Python Flask, MySQL, JavaScript, HTML, and CSS.
 
 ### Full-Stack E-commerce App
-- [GitHub Repo](https://github.com/anugrahprathap/DjangoReactEcommerce)
+- [GitHub Repo](https://github.com/anugrahprathap/DjangoReactEcomerce)
 - 🛒 Currently, I'm working on a full-stack e-commerce app using Python Django Rest Framework and React.js.
 
 ## 🛠️ Tech Stack
