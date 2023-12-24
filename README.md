@@ -37,7 +37,7 @@
 
 ### Full-Stack E-commerce App
 - [GitHub Repo](https://github.com/anugrahprathap/DjangoReactEcomerce)
-- 🛒 Currently, I'm working on a full-stack e-commerce app using Python Django Rest Framework and React.js.
+- 🛒A full-stack e-commerce app using Python Django Rest Framework and React.js.
 
 ## 🛠️ Tech Stack
 <p align="center">
